@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, My name's Mohammed 👋
+
+- 💻 I'm a Software Engineering Student
+- 🔭 I’m currently working on a Node js project
 
 <!--
 **Mohammed-Belefqih/Mohammed-Belefqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
